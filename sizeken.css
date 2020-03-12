@@ -1,0 +1,23 @@
+.header-logo{
+  color: white;
+  padding:20px 40px;
+  float:left;
+  font-style:
+}
+
+.header{
+  background-color: green;
+  height:60px
+}
+
+a{
+  list-style: none;
+  float:left;
+  padding:20px 20px;
+  color:white;
+  text-decoration: none;
+}
+
+.totigi{
+  height:200px;
+}
